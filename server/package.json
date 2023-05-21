@@ -1,0 +1,23 @@
+{
+  "name": "CRUD-Basico",
+  "version": "1.0.0",
+  "description": "Este es un proyecto para la materia de Arquitectura de software que explica la Arquitecturas orientadas a servicios",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Ruben Valencia",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.11.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.31.1",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
