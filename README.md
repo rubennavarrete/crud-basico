@@ -1,4 +1,4 @@
-# crud-basico
+# Arquitecturas orientadas a servicios - Arquitectura de software - 6795
 
 ## Nodejs Sequelize RESTAPI PostgreSQL
 
