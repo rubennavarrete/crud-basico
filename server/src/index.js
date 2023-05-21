@@ -6,7 +6,7 @@ async function main() {
     // await sequelize.authenticate();
     console.log("Connection has been established successfully.");
 
-    await sequelize.sync({ force: true });
+    await sequelize.sync({ force: false });
 
     app.listen(4444);
     console.log("Server is listening on port", 4444);
