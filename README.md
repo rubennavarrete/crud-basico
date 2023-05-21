@@ -13,12 +13,12 @@ Se trata de una API REST sencilla que utiliza tecnologías Javascript y PostgreS
 
 Esta es la relación básica que utilizamos en este ejemplo,
 
-![](./public/diagram.png)
+![](./server/public/diagram.png)
 
 ## Estructura del proyecto
 
 ```bash
-.
+server
 ├── package.json
 ├── requests
 │   ├── projects.http
